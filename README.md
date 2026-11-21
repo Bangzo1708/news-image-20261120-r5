@@ -1,15 +1,17 @@
 # news-image-20261120-r5
 
-World news of 20 November 2026, distilled into a single image.
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Bangzo1708/news-image-20261120-r5/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Bangzo1708/news-image-20261120-r5/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-`main.ts` renders the day's top world-news stories into `entry.png`
-(1024×1024), written to `/output`.
+This entry is a newspaper front page ("Koran") that sums up the world's news of 20 November 2026 in a single image. The headline covers the Trump–Xi–Putin summit in Shenzhen, and six news boxes cover the day's other big stories: the Kyiv bombardment, missiles in Poland, the ICJ ruling on Myanmar/Rohingya, Houthi missiles over Riyadh, Cyclone Akvan in Odisha, and Anthropic's IPO.
 
-## Usage
+## Run it
 
-Run `main.ts` — it writes `entry.png` to `/output`.
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
 
-## Owner
+---
 
-- Owner: Bangzo1708
-- referral_code: `dkj7ja9h`
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards</sub>
